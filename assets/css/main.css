@@ -2303,7 +2303,7 @@ input, select, textarea {
 
 	.image {
 		border-radius: 0.25em;
-		border: 0;
+		border: 1px solid #F0F0F0;
 		display: inline-block;
 		position: relative;
 	}
